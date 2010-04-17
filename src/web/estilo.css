@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: arial;
+    text-align: center;
+    font-size: 11pt;
+}
+
+.pikeno {
+    font-family: arial;
+    text-align: center;
+    font-size: 6pt;
+}
+
+h1 {
+    font-family: times new roman;
+    font-size: 16pt;
+    font-style: italic;
+}
+
+a {
+    color: #111177;
+}
+
+.cinza {
+    color: gray;
+}
+
+.cinza2 {
+    color: #555555;
+}
+
+#area { width: 800px; border: 0px solid black; height: 300px;
+        margin:auto; vertical-align: middle; display: table-cell;  }
+
+.conteudo {
+    margin-left:20%;
+    margin-right:20%;    
+}
+
+.rodape {
+    padding-top: 10px;
+    font-size: 11pt;
+    margin-top: 30px;
+    border-top: 2px dashed black;
+    border-width:50%;
+}
+
+.risquinho {
+    border-top: 1px dashed gray;
+}
+
+.frase {
+    padding-top: 8px;
+    font-size: 16pt;
+    font-style: italic;
+    font-weight: bold;
+    color: #565657;
+}
+
+}
